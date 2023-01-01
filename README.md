@@ -5,7 +5,7 @@
 </head>
 
 <h2>💻Tech Stack</h2>
-<p>Languages:
+<p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=Java&logoColorwhitek"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black"/>
