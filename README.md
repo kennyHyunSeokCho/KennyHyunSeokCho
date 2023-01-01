@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 </p>
-<h2>🐱 About Me</h2>
+<h2>🐱 Contact Me</h2>
   
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyeonseok3712@g.hongik.ac.kr)](hyeonseok3712@g.hongik.ac.kr)
