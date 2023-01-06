@@ -1,6 +1,6 @@
 <h1>👋 Hi Welcome</h1>
 <head>
-  <p>I'm Kenny HyunSeok Cho, studying at Hongik University.<p>
+  <p>I'm Kenny HyunSeok Cho, enrolled in Hongik University.<p>
  
 </head>
 
