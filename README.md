@@ -17,10 +17,8 @@
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 </p>
 <h2>🐱 Contact Me</h2>
-  
 
 [![Gmail](https://img.shields.io/badge/Gmail-hyeonseok3712@g.hongik.ac.kr-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:hyeonseok3712@g.hongik.ac.kr?subject=Hey!)
-
 [![Naver](https://img.shields.io/badge/Naver-kenny0922@naver.com-informational?style=flat-square&color=03C75A&logo=Naver&logoColor=white)](mailto:kenny0922@naver.com?subject=Hey!)
 <!---
 kennyHyunSeokCho/kennyHyunSeokCho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
