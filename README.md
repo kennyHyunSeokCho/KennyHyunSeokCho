@@ -19,9 +19,9 @@
 <h2>🐱 Contact Me</h2>
   
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyeonseok3712@g.hongik.ac.kr)](hyeonseok3712@g.hongik.ac.kr)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kenny0922@naver.com)](kenny0922@naver.com)
+[![Gmail](https://img.shields.io/badge/Gmail-hyeonseok3712@g.hongik.ac.kr-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:hyeonseok3712@g.hongik.ac.kr?subject=Hey!)
 
+[![Naver](https://img.shields.io/badge/Naver-kenny0922@naver.com-informational?style=flat-square&color=03C75A&logo=Naver&logoColor=white)](mailto:kenny0922@naver.com?subject=Hey!)
 <!---
 kennyHyunSeokCho/kennyHyunSeokCho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -29,7 +29,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-      
+
+
 
 
 
